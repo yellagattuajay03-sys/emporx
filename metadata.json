@@ -1,0 +1,7 @@
+{
+  "name": "EmporX - Autonomous Commerce Business Agent",
+  "description": "Autonomous AI business agent for modern commerce. Discover opportunities, analyze suppliers, optimize unit costs, simulate orders, and learn through persistent business memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
